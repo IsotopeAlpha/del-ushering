@@ -11,10 +11,12 @@ function App() {
         <title>Dels Ushering Consult</title>
       </head>
       <Navbar />
-      <Home/>
-      <Services/>
-      <About/>
-      <Contact/>
+      <main>
+        <Home />
+        <Services />
+        <About />
+        <Contact />
+      </main>
     </div>
   );
 }
