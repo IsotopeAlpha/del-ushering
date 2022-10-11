@@ -10,6 +10,8 @@ export default function Contact() {
             <span>Facebook: <a className='text-blue-500' href='http://www.facebook.com/delsusheringconsult/'>http://www.facebook.com/delsusheringconsult/</a> </span>
             <span>Website: <a className='text-blue-500' href='https://del-ushering.vercel.app/'>https://del-ushering.vercel.app/</a> </span>
         </div>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3355231301514583"
+     crossorigin="anonymous"></script>
     </section>
   )
 }

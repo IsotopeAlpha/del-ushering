@@ -14,6 +14,8 @@ export default function Services() {
                 <li>Make them feel comfortable and relax where they are seated</li>
             </ul>
         </div>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3355231301514583"
+     crossorigin="anonymous"></script>
     </section>
   )
 }
