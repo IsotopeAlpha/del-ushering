@@ -9,6 +9,8 @@ function App() {
     <div>
       <head>
         <title>Dels Ushering Consult</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3355231301514583"
+     crossorigin="anonymous"></script>
       </head>
       <Navbar />
       <main>
